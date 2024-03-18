@@ -1,6 +1,8 @@
 # Machine-Learning-based-Stock-Price-Prediction-and-Portfolio-Optimization
 
 **Keywords: Stock Market Forecasting, Machine Learning Models, CNN-LSTM, Portfolio Construction**
+
+
 The stock market is a cornerstone of any nation's economy, serving as a vital platform for businesses and investors to access capital and investment opportunities. Accurate stock market forecasting is of paramount importance, offering valuable insights to investors and aiding enterprises in shaping effective financing strategies, ultimately bolstering economic well-being. Furthermore, harnessing stock price forecasts to construct robust investment portfolios empowers investors to optimize returns. Thus, this research undertakes a significant endeavor in the realms of stock market forecasting and portfolio optimization.
 
 This study pursues two primary objectives: firstly, the comprehensive evaluation and comparison of diverse machine learning models for stock price prediction, and secondly, the development of investment portfolio strategies based on precise stock price forecasts. After meticulous evaluation, our findings reveal that the CNN-LSTM model exhibits superior performance, boasting an accuracy of 0.7115 and the highest f-beta score of 0.6435. Leveraging the CNN-LSTM model's predictions, three portfolio construction methods were implemented, all yielding commendable results.
